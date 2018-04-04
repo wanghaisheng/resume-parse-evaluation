@@ -1,0 +1,261 @@
+  个人信息	
+姓         名	胡小东	性         别	 男	
+出生日期	1980年10月31日	工作年限	十年以上	
+证件类型	身份证	证件号	340821198888888888   申请验证
+居住地	 合肥	Email	huxiaodong@gmail.com
+目前年薪	10-15万人民币	手机号码	13888888888   申请验证
+家庭电话	 	公司电话	 
+求职状态	观望有好的机会再考虑	户         口	合肥
+关键词	海量数据处理 系统架构 Java Oracle python django GAE 项目经理 amazon_EC2 jQuery
+国家或地区	中国大陆	身         高	172cm
+婚姻状况	已婚	政治面貌	 
+邮         编	230088	QQ       号	2688888
+地         址	http://hi.baidu.com/xiaodong	旺旺ID	 
+个人主页	http://xiaodong.com/wordpress
+教育经历	
+时         间	1998年9月到2002年6月
+学         校	安徽理工大学   申请验证    邀请评价
+专         业	机械设计制造及其自动化
+学         历	本科
+专业描述	 
+海外学习经历	否
+
+
+工作经验	
+时         间	2007年3月至今
+公         司	 思科系统研发合肥分中心    邀请评价
+公司性质	外资(欧美)
+公司规模	500人以上
+行         业	通信/电信运营、增值服务
+部         门	Platform
+职         位	高级软件工程师
+工作描述	思科网迅会议系统海量数据统计分析系统设计开发及维护 
+思科网迅节点管理系统设计开发 
+java后台产品项目开发与管理 
+j2ee web项目开发与管理 
+产品线维护管理
+海外工作经历	否
+
+时         间	2005年6月到2007年3月
+公         司	 华为3Com    邀请评价
+公司性质	合资(欧美)
+公司规模	500人以上
+行         业	通信/电信/网络设备
+部         门	供应链IT部
+职         位	需求工程师
+工作描述	担任供应链IT部的BPA（业务流程需求管理员），并参与一些企业信息化项目的开发、维护等工作
+海外工作经历	否
+
+时         间	2003年4月到2005年6月
+公         司	 宁波波导股份有限公司    邀请评价
+公司性质	合资(欧美)
+公司规模	500人以上
+行         业	电子技术/半导体/集成电路
+部         门	信息工程部
+职         位	软件工程师
+工作描述	在波导信息工程部从事软件开发工作，担任波导人力资源管理系统的项目经理和主要开发人员
+海外工作经历	否
+
+时         间	2001年11月到2003年4月
+公         司	 艾乐特软件有限公司    邀请评价
+公司性质	民营公司
+公司规模	少于50人
+行         业	计算机软件
+部         门	网络部
+职         位	信息技术经理/主管
+工作描述	艾乐特是我和几个同学一起创办的软件公司，我在大学未毕业之前就已经参与公司的具体工作。我担任公司网络部经理，参与公司主要软件产品的研发和公司网站业务的开发与管理。
+海外工作经历	否
+
+
+求职意向	
+工作类型	全职
+地         区	 上海；合肥；杭州
+行         业	 计算机服务(系统、数据服务、维修)；通信/电信运营、增值服务；互联网/电子商务；计算机软件；网络游戏
+职         能	 高级软件工程师；系统架构设计师；系统分析员；需求工程师；数据库工程师/管理员
+期望薪水	15000-19999/月
+到岗时间	待定
+自我评价	10年软件开发、项目管理、团队管理的工作经验 
+技术偏向，有管理经验，乐于沟通协调 
+擅长学习应用新技术，紧追业界动态 
+近年主要从事java(Spring\JMS\Struts和play framework)开发技术，同时擅长python(django)开发，偏后台，前台熟悉（会jquery和ajax等和后台的RESTful api json进行交互） 
+关注移动互联网发展，关注社交网络，关注云计算与云服务，熟练使用amazon多项云服务(ec2为主)和GAE
+期待能与发展前景好，发展空间大的公司或组织长期稳定合作
+
+培训经历	
+时         间	2004年6月到2004年6月
+培训机构	UML软件工程组织	培训地点	 北京
+培训课程	UML应用	获得证书	 
+详细描述	 
+
+
+  语言能力         沪语   英语   日语   粤语	
+语言类别	英语	掌握程度	熟练
+读写能力		听说能力	
+
+语言类别	普通话	掌握程度	精通
+读写能力		听说能力	
+
+
+ 
+英语等级	 英语六级	日语等级	 无
+TOEFL	 	GRE	 	GMAT	 
+IELTS	 	TOEIC	 
+
+附加信息	
+·IT技能         
+技         能	Jtest	使用时间	24月	掌握程度	熟练
+
+技         能	Oracle	使用时间	100月	掌握程度	熟练
+
+技         能	Linux	使用时间	60月	掌握程度	熟练
+
+技         能	Ant	使用时间	100月	掌握程度	熟练
+
+技         能	SQL	使用时间	100月	掌握程度	熟练
+
+技         能	SQL Server	使用时间	24月	掌握程度	一般
+
+技         能	Project Manager	使用时间	60月	掌握程度	熟练
+
+技         能	Java	使用时间	60月	掌握程度	精通
+
+技         能	J2EE	使用时间	60月	掌握程度	精通
+
+技         能	UML	使用时间	100月	掌握程度	精通
+
+技         能	OO	使用时间	100月	掌握程度	精通
+
+技         能	Web Servers	使用时间	60月	掌握程度	熟练
+
+技         能	Delphi	使用时间	60月	掌握程度	熟练
+
+技         能	CSS	使用时间	60月	掌握程度	一般
+
+技         能	JavaScript	使用时间	100月	掌握程度	一般
+
+技         能	HTML	使用时间	100月	掌握程度	一般
+
+技         能	MS Powerpoint	使用时间	60月	掌握程度	熟练
+
+技         能	Junit	使用时间	60月	掌握程度	精通
+
+
+ 
+·项目经验
+时         间	2012年2月至今
+项目名称	Cool bookmark	开发工具	 Pycharm
+硬件环境	 amazon ec2	软件环境	 python django
+项目描述	多用户的网络书签收藏系统，用户可共享书签，功能模仿delicious,线上演示地址http://ibookmark.me，代码开源，详见：https://github.com/xiaodong/coolbookmark 
+使用我自己开发的脚手架 
+后台采用django-piston做的RESTful api，前台全部采用jquery ajax进行数据调用和模板填充。 
+在此之前，曾经使用GAE开发过类似的项目，详见：http://coolbookmark.appspot.com
+责任描述	负责人
+
+时         间	2011年12月至今
+项目名称	django_black_project	开发工具	 PyCharm
+硬件环境	 	软件环境	 python django
+项目描述	这是我做的python django web脚手架项目，包括以下功能： 
+用户注册登录（包括社交网络：facebook, twitter, 新浪微博，google等） 
+时区，多语言设置等 
+采用twitter bootstrap做前台框架 
+使用了django-taggit, django-oauth等open source app 
+详见：https://github.com/xiaodong/django_blank_project
+责任描述	负责人
+
+时         间	2011年12月至今
+项目名称	EditorialSystem	开发工具	 Pycharm
+硬件环境	 amazon ec2	软件环境	 python django
+项目描述	杂志社学术论文在线提交、审核、review系统 
+python+django 
+django-fsm 
+http://107.21.243.247/
+责任描述	负责人
+
+时         间	2011年11月至今
+项目名称	MyMontreal	开发工具	 python/django
+硬件环境	 Amazon EC2	软件环境	 python/django
+项目描述	python + django，部署在Amazon EC2 + Apache + mod_wsgi，提供本地化web+mobile(json webservice)服务 
+http://www.mymontreal.biz
+责任描述	负责人
+
+时         间	2010年12月至今
+项目名称	CWNMS	开发工具	 Eclipse/PLSQL Developer
+硬件环境	 CentOS5	软件环境	 JBoss/JDK1.5/JDK1.6/oracle
+项目描述	CWNMS是Cisco WebEx Node Management System的简称，CWNMS主要功能是提供web客户对Cisco WebEx Node进行远程配置维护管理，并得到其上的网络会议使用情况。 
+http://wma.webex.com
+责任描述	项目的主要设计、开发人员，担任其中几个重要版本的项目经理
+
+时         间	2010年10月到2010年12月
+项目名称	酷账本	开发工具	 Python
+硬件环境	 Windows	软件环境	 Python/GAE/Django
+项目描述	酷账本是一个在线记账的python+django+GAE应用，具备账户管理、收支管理、预算管理、目标管理等功能，这个项目是我利用业余时间开发完成。详见：http://coolmoneybook.appspot.com
+责任描述	设计、开发、部署
+
+时         间	2007年3月至今
+项目名称	globalwatch	开发工具	 eclipse
+硬件环境	 	软件环境	 java spring struts jms memcached ibatis
+项目描述	Globalwatch是cisco webex meeting 统计分析系统，包括前台web展示部分，后台数据处理部分和分布式数据采集收集部分。 
+前台：spring + struts + ibatis 
+后台：spring + quartz + RMI 
+数据采集分析：JMS, JNI(C++) 
+http://globalwatch.webex.com
+责任描述	从3.0到5.0版本，一直担任主要开发人员兼部分版本的项目经理
+
+时         间	2007年3月至今
+项目名称	Technique Support & Customer Report	开发工具	 Eclipse/PLSQL Developer/Linux shell
+硬件环境	 Linux/Windows	软件环境	 Java/shell
+项目描述	Technique Support & Customer Report项目主要是为客户定制各类报表，有一系列的工具，以及各种linux shell配合cron job运行。这些报表的客户包括：波音、汇丰银行、Cisco等，报表有用户全球区域分析、会议延迟统计等。这些报表帮助客户进行统计分析以及IT查询问题提供了很多帮助。
+责任描述	项目经理及主要设计开发人员
+
+时         间	2005年6月到2007年3月
+项目名称	华为3Com供应链IT项目	开发工具	 
+硬件环境	 	软件环境	 
+项目描述	CM 供应链范围内IT需求管理、项目跟踪及IT业务支持 
+项目有：进出口类、物流信息平台、外协管理信息平台等、ORACLE ERP信用管理
+责任描述	BPA：Business Process Administrator 
+开发人员
+
+时         间	2003年4月到2005年6月
+项目名称	波导人力资源管理系统	开发工具	 delphi
+硬件环境	 windows	软件环境	 delphi/oracle
+项目描述	波导人力资源管理系统是波导股份有限公司使用的人力资源管理系统，包括人力资源的人员信息、岗位管理、薪资管理、培训管理、招聘管理等各个模块，采用delphi开发，数据库为oracle，C/S架构，并提供asp页面用于普通员工进行查询等。
+责任描述	项目经理及主要设计、开发和维护人员
+
+时         间	2002年6月到2003年4月
+项目名称	艾乐特药店管理系统	开发工具	 delphi
+硬件环境	 windows	软件环境	 delphi/sql server
+项目描述	艾乐特药店管理系统是我毕业后的第一个项目，使用delphi开发，数据库存储为sql server，基本功能包括药店进销存管理。
+责任描述	核心开发人员
+
+
+ 
+·证书
+获得时间	2001年10月
+证书名称	全国计算机软件技术资格与水平考试   申请验证
+成         绩	 
+
+获得时间	2000年6月
+证书名称	大学英语四级   申请验证
+成         绩	 
+
+
+ 
+·附件 （所有附件总量为2M）
+
+ 
+·高级人才附加信息
+基本工资(税前)	12万/年	年度奖金/佣金	3万/年
+补贴/津贴	 	股       票	 若干
+
+ 
+·其他
+主         题	兴趣爱好
+内         容	篮球 
+羽毛球 
+游泳，曾经参加公司比赛，取得仰泳和接力第三名
+
+主         题	职业目标
+内         容	成为一名优秀的软件架构师
+
+主         题	特殊技能
+内         容	从delphi开发做起，玩过php，后来到现在工作一直用java，业余时间玩python
