@@ -42,7 +42,8 @@ cv-extract 北京有本科技 | http://k18.com.cn | 这家做解析有一定的�
  杭州少世科技有限公司 | www.littleparser.com | 小析简历解析，免费试用现在，国际大数据团队研发的 | Y | 不支持图片 |  -- |  SaaS |  -- |
 山卡拉 | http://cv-extract.com/ | --  | Y 不可用  | 不支持图片  | -- | SaaS | --- |
 CV Tech 简历 | http://www.jianlijiexi.com/ | --  | Y | 支持图片 | -- |  SaaS和本地部署  | --- |
-大易 | http://www.dayee.com/wt/dayee/dayeePageresume | -- | N | 不支持图片 | -- |  -- | -- |
+大易 | http://www.dayee.com/wt/dayee/dayeePageresume | -- | N | 不支持图片 | -- |  -- | -- |        
+麦穗简历洞察 | https://www.mesoor.com/resume-insight.html | -- | N | 不支持图片 | -- |  -- | -- |
 
 
 ###  开源库 
