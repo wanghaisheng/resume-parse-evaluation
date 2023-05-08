@@ -6,7 +6,7 @@ paddler ocr 相關的有一個table structure extract 不知道能不能套上�
 
 另外就是https://github.com/jamesturk/scrapeghost  看到一個gpt的應用 不知道有沒有可行性
 
-
+https://github.com/hxu296/nlp-resume-parser
 
 
 
