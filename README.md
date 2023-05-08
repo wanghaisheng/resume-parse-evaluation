@@ -1,6 +1,15 @@
 # resume-parse-evaluation
 Evaluate existing engine of resume parse  for Chinese 对各种简历解析工具的测评
 
+
+paddler ocr 相關的有一個table structure extract 不知道能不能套上來
+
+另外就是https://github.com/jamesturk/scrapeghost  看到一個gpt的應用 不知道有沒有可行性
+
+
+
+
+
 从简历中提取感兴趣的字段
 
 
